@@ -6,21 +6,33 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
-    <!--[if lte IE 8]>
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
-    <![endif]-->
-    <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
-    </script>
-    <script src="trm_audio.js" type="text/javascript"></script>
-    <title>Tramontane</title>
+
+    <title>LFSAG - Laboratorio di Fonetica Sperimentale 'Arturo Genre'</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="navbar.css" rel="stylesheet">
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+  <!--[if lte IE 8]>
+      <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+  <![endif]-->
+  <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+</script>
+<script src="trm_audio.js" type="text/javascript"></script>
+
+<style type="text/css">
+#map { height: 800px; }
+
+* {margin: 0; padding: 0;}
+#left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top}
+#left {width: 50%; background: blue;}
+#middle {width: 0%; background: green;}
+#right {width: 50%; background: yellow;}
+</style>
+
   </head>
 
   <body>
@@ -28,85 +40,9 @@
     <div class="container">
 
 
-      <nav class="navbar navbar-light bg-faded rounded navbar-toggleable-md">
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#containerNavbar" aria-controls="containerNavbar" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <a class="navbar-brand" href="#">Home</a>
-
-        <div class="collapse navbar-collapse" id="containerNavbar">
-          <ul class="navbar-nav mr-auto">
-
-<li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle"  id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Laboratorio</a>
-              <div class="dropdown-menu" aria-labelledby="dropdown04">
-                <a class="dropdown-item" href="#">Info e strumenti</a>
-                <a class="dropdown-item" href="#">Arturo Genre</a>
-                <a class="dropdown-item" href="#">Comitato Scientifico</a>
-                <a class="dropdown-item" href="http://www.lfsag.unito.it/sito_new/partner_locali.html">Partner Locali</a>
-                <a class="dropdown-item" href="#">Contatti</a>
-              </div>
-            </li>
-
-<li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle"  id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Personale</a>
-              <div class="dropdown-menu" aria-labelledby="dropdown04">
-                <a class="dropdown-item" href="#">Antonio Romano</a>
-                <a class="dropdown-item" href="#">Collaboratori</a>
-              </div>
-            </li>
-
-<li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle"  id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Materiali</a>
-              <div class="dropdown-menu" aria-labelledby="dropdown04">
-                <a class="dropdown-item" href="#">Correlatore</a>
-                <a class="dropdown-item" href="#">AMPER-fox/dat</a>
-                <a class="dropdown-item" href="#">Phone it!</a>
-                <a class="dropdown-item" href="#">Tabella IPA</a>
-                <a class="dropdown-item" href="#">PhonPad IPA editor</a>
-                <a class="dropdown-item" href="#">Inventari sonori</a>
-                <a class="dropdown-item" href="#">Archivi sonori</a>
-                <a class="dropdown-item" href="#">Biblioteca</a>
-                <a class="dropdown-item" href="#">Materiale didattico</a>
-              </div>
-            </li>
-
-<li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle"  id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Eventi</a>
-              <div class="dropdown-menu" aria-labelledby="dropdown04">
-                <a class="dropdown-item" href="#">L2PHROL</a>
-                <a class="dropdown-item" href="#">WVD</a>
-                <a class="dropdown-item" href="#">Conf. TAL</a>
-                <a class="dropdown-item" href="#">AISV 2014</a>
-                <a class="dropdown-item" href="#">EVALITA2014</a>
-              </div>
-            </li>
-
-
-<li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle"  id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ricerca</a>
-              <div class="dropdown-menu" aria-labelledby="dropdown04">
-                <a class="dropdown-item" href="#">Settori di ricerca</a>
-                <a class="dropdown-item" href="#">Collaborazioni</a>
-                <a class="dropdown-item" href="#">AMPER</a>
-                <a class="dropdown-item" href="#">Ritmo</a>
-                <a class="dropdown-item" href="#">Pro(so)Praat</a>
-                <a class="dropdown-item" href="#">MRI</a>
-                <a class="dropdown-item" href="#">Tesi</a>
-                <a class="dropdown-item" href="#">Didattica</a>
-                <a class="dropdown-item" href="#">PhoNEWS</a>
-                <a class="dropdown-item" href="#">Prodotti della ricerca</a>
-              </div>
-            </li>
-          </ul>
-<!--
-          <form class="form-inline my-2 my-md-0">
-            <input class="form-control mr-sm-2" type="text" placeholder="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-          </form>
--->
-        </div>
-      </nav>
+<div w3-include-html="menu.html"></div>
+   <script src="https://www.w3schools.com/lib/w3.js"></script>
+   <script>w3.includeHTML();</script>
 
     
 <!--
@@ -121,9 +57,7 @@
         </div>
       </div>
 -->
-
-
-<div id="corpo">
+		<div id="corpo">
 <div style="text-align:justify"><h2>La tramontana e il sole</h2>
 
 <br></br>
@@ -169,12 +103,10 @@ onEachFeature: onEachAudio,
 
 </script>
 
-    </div><!-- container-->
-	  
-	     <div w3-include-html="menu.html"></div>
-   <script src="https://www.w3schools.com/lib/w3.js"></script>
-   <script>w3.includeHTML();</script>
+</p>
 
+		
+		<!-- container-->
 
     
    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
