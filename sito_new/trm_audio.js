@@ -124,7 +124,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Arabo Dialetto Egitto Alessandria",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_arabic_egypt_f_alexandria.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_arabic_egypt_f_alexandria.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>الهواء والشمس <br><br>كان فيه يوم الهواء والشمس كانو بيتجادلو على مين مبنهوم هوه الاقوى٬ لما شافو رجل معدى بالجاكيت بتاعه. وإتفقو ان هما٬ المبنهوم هوه الاقوى الحيقلاع<br> الرجل الجاكيت بتاعه٬ فا الهواء عصف هوه أول ، بكل قوتهو، بس كل ما كان كل مره بيعصف، كان الرجل بيمسك في الجاكيت بتاعه. بعد كده الهواء  معطرفش ان هوه الخسر. الشمس بدقت كده تطلع وعلى طول الحراره بتعته خلت الرجل يقلع الجاكيت. كده الهواء، بتع الشيمل، اعترف ان هى الشمس هى الاقوى<br><br><br>عجبتك القسه؟ احكيهلك تاني؟<br>"
 },
 "geometry": {
 "type": "Point",
@@ -159,6 +159,18 @@ var sounds = {"type": "FeatureCollection","features": [
 {
 "type": "Feature",
 "properties": {
+"name": "Arabo Dialetto Libano Beirut",
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_arabic_dia_lebanon_f_beirut.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [35.51278,33.90479]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
 "name": "Arabo Dialetto Marocco Casablanca",
 "html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_arabic_morocco_f_casablanca.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
 },
@@ -172,7 +184,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Arabo Dialetto Tunisia Kebili",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_arabic_dialect_tunisia_m_kebili.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_arabic_dia_tunisia_m_kebili.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
 },
 "geometry": {
 "type": "Point",
@@ -267,8 +279,8 @@ var sounds = {"type": "FeatureCollection","features": [
 {
 "type": "Feature",
 "properties": {
-"name": "Bamileke Ngomba Camerun Mbauda (Bamendjinda)",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_bamileke_ngomba_cameroon_f_mbauda_bamendjinda.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Feufack po monem ne fèh fèh, pop lao bo feh mefèh te tah'woh chiu nga ygyueh ngu te tsa yetchϽ nke pah po la bϽ feh mojeh, te jieur tah deèh ndounmba alla mbo ntò ne mama nzui mbuè. Pop shunhee ngeu, woh a nguèuhh nruiaa mvo seu, ngue tsa yetcho. Pah pop lan mba tchoú, poun feufack zenetoh pohteh nouu, nèèh ndoon teab counkte nruice. Ah couhté te feufack neen. Nkewa, nem gene nta'a ntaaa teh. Ndèèh ndoun sock unama nrui waa. Nkeeh waah feufack tchou no nem ngo tsaaa kaa.<br><br>Nnaa mponghoo? Nsuo nkeepahh?"
+"name": "Bamileke Ngomba Camerun Mbouda (Bamendjinda)",
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_bamileke_ngomba_cameroon_f_mbauda_bamendjinda.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Feufack po monem ne fèh fèh, pop lao bo feh mefèh te tah'woh chiu nga ygyueh ngu te tsa yetchϽ nke pah po la bϽ feh mojeh, te jieur tah deèh ndounmba alla mbo ntò ne mama nzui mbuè. Pop shunhee ngeu, woh a nguèuhh nruiaa mvo seu, ngue tsa yetcho. Pah pop lan mba tchoú, poun feufack zenetoh pohteh nouu, nèèh ndoon teab counkte nruice. Ah couhté te feufack neen. Nkewa, nem zene nta'a ntaaa teh. Ndèèh ndoun sock unama nrui waa. Nkeeh waah feufack tchou no nem ngo tsaaa taa.<br><br>Nnaa mponghoo? Nsuo nkeepahh?"
 },
 "geometry": {
 "type": "Point",
@@ -364,7 +376,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Centrale Laziale Italia Latina",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_lt_f.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>La tramontana e er sole<br><br>'N giorno er vento de tramontana e er sole discutevano su chi dei due fosse 'r più forte, quanno videro arrivà 'n passante co' addosso 'n mantello. Allora decisero che er più forte sarebbe stato quello dei due che fosse riuscito a faglie toglie 'r mantello. Er vento pe' primo cominciò a soffià co tutta la sua forza, ma più soffiava e più er passante se strigneva ner mantello, finché alla fine er vento non si diede pe vinto. Er sole a sua volta incominciò a splenne e subito er calore obbligò l'omo a toglierse er mantello. Così la tramontana fu costretta a riconosce che er sole era più forte de lei.<br><br>T’è piaciuta sta storiella? Voi che te la racconto de novo"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_lt_f.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>La tramontana e er sole<br><br>'N giorno er vento de tramontana e er sole discutevano su chi dei due fosse 'r più forte, quanno videro arrivà 'n passante co' addosso 'n mantello. Allora decisero che er più forte sarebbe stato quello dei due che fosse riuscito a faglie toglie 'r mantello. Er vento pe' primo cominciò a soffià co tutta la sua forza, ma più soffiava e più er passante se strigneva ner mantello, finché alla fine er vento non si diede pe vinto. Er sole a sua volta incominciò a splenne e subito er calore obbligò l'omo a toglierse er mantello. Così la tramontana fu costretta a riconosce che er sole era più forte de lei.<br><br>T’è piaciuta sta storiella? Voi che te la racconto de novo?"
 },
 "geometry": {
 "type": "Point",
@@ -388,7 +400,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Centrale Laziale Italia Roma (Prima Porta)",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_rm_m_primaporta.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>'N giorno er vento de tramontana e er sole discutevano su chi era er più forte, quanno videro arrivà 'n passante co' addosso 'n mantello. Allora decisero che er più forte era quello che glie faceva toglie er mantello. Er vento pe' primo cominciò a soffià a manetta, ma più soffiava e più er passante se copriva ner mantello, finché a' fine er vento lasciò perde. Pure er sole incominciò a splenne e subito er calore fece toglie er mantello all'omo. Così la tramontana fu costretta a riconosce che er sole era più forte de lei.<br><br>T’è piaciuta la storiella? Voi che te la racconto n'artra volta?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_rm_m_primaporta.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>'N giorno er vento de tramontana e er sole discutevano su chi era er più forte, quanno videro arrivà 'n passante co' addosso 'n mantello. Allora decisero che er più forte era quello che glie faceva toglie er mantello. Er vento pe' primo cominciò a soffià a manetta, ma più soffiava e più er passante se copriva ner mantello, finché a' fine er vento lasciò perde. Pure er sole incominciò a splenne e subito er calore fece toglie er mantello all'omo. Così a tramontana fu costretta a riconosce che er sole era più forte de lei.<br><br>T’è piaciuta la storiella? Voi che te la racconto n'artra volta?"
 },
 "geometry": {
 "type": "Point",
@@ -880,7 +892,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Farsi  Iran Teheran",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_farsi_iran_f_tehran.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_farsi_iran_f1_tehran.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
 },
 "geometry": {
 "type": "Point",
@@ -892,7 +904,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Farsi  Iran Teheran",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_farsi_iran_f2_tehran.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
 },
 "geometry": {
 "type": "Point",
@@ -952,7 +964,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Francese  Quebec Quebec City",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_french_can_quebec_f_quebec_city.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>La bise et le soleil<br><br>La bise et le soleil se disputaient, chacun assurant qu’il était le plus fort. Quand ils ont vu un voyageur qui s’avançait, enveloppé dans son manteau, ils sont tombés d'accord que celui qui arriverait le premier à faire ôter serait regardé comme le plus fort. Alors, la bise s'est mise à souffler de toute sa force, mais plus elle soufflait, plus le voyageur serrait son manteau autour de lui et à la fin, la bise a renoncé à le lui faire ôter. Alors, le soleil a commencé à briller et au bout d'un moment le voyageur, réchauffé, a ôté son manteau. Ainsi, la bise a du reconnaître que le soleil était le plus fort.<br><br>"
 },
 "geometry": {
 "type": "Point",
@@ -1155,6 +1167,18 @@ var sounds = {"type": "FeatureCollection","features": [
 {
 "type": "Feature",
 "properties": {
+"name": "Gallo-italico Piemontese Italia Chieri",
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_to_m3_torino.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [7.82756,45.00889]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
 "name": "Gallo-italico Piemontese Italia Nucetto (CN)",
 "html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_cn_f_nucetto.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
 },
@@ -1173,6 +1197,18 @@ var sounds = {"type": "FeatureCollection","features": [
 "geometry": {
 "type": "Point",
 "coordinates": [7.34318,44.84907]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"name": "Gallo-italico Piemontese Italia Pinerolo",
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_to_f1_torino.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [7.33067,44.88459]
 }
 },
 
@@ -1204,11 +1240,35 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Gallo-italico Piemontese Italia Torino",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_to_m2_torino.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
 },
 "geometry": {
 "type": "Point",
-"coordinates": [7.68686,45.07034]
+"coordinates": [7.68776,45.07154]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"name": "Gallo-italico Piemontese Italia Torino",
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_to_m1_torino.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [7.68866,45.07284]
+}
+},
+
+{
+"type": "Feature",
+"properties": {
+"name": "Gallo-italico Piemontese Italia Torino",
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_to_m4_torino.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Ël vènt ëd Mesaneuit e ’l sol a discuto chi c’a sìa ël pì fòrt tra ëd lor, quand c’a vëddo rivé n’òmo con ën mantèl. Anlora a decìdo ch’ël pì fòrt ëd lor a sarìa staìt col c’a fuissa riussì a fèie gavé ël mantèl. Dënans ancamin-a ël vènt e a taca a sofié fòrt, ma pì a sofia e pì l’omo ës sàra ëndrìnta ël mantèl, ën manèra che ël vènt a riès nén a ranchéilo da dòs, e parèi a làssa perde. Ël sol anlora a taca a scaudé da bin, e subit a l’òmo ai toca gavèse ël mantèl. Dan sa manèra sì al vènt ai toca riconòsse ch’ël sol a l’è pì fòrt che chièl.<br><br>A l’è piasute la stòria? Veusto ch’i t’la conta torna?"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [7.68546,45.07814]
 }
 },
 
@@ -1756,7 +1816,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Meridionale Campano Italia Salento (SA)",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_sa_m_Salento_Cilento.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>’No jùorno lo viendo re terra e llo sole se sciarraro, pecché ognuno re loro vulìa esse lo cchiù fforte quanno verero ’no cristiano ch’arrivava co’ ’no mantieddo re pedda ’nguoddo. Allora tutti e ddui recero ca lo cchiù fforte fosse stato chiro ca fosse riuscito re re fa levà lo mantieddo ra cuoddo. Lo viendo re terra accommenzao a scioscià forte, ma cchiù sciosciava e cchiù lo cristiano se stringìa inda lo mantieddo, e roppo ’no poco re tiembo lo povero viendo non ce la facette cchiù. Allora lo sole combarette inda lo cielo, e roppo ’no poco re tiembo lo cristiano, ca se sendìa ’mbocato re càoro, se levao lo mantieddo. Lo viendo re terra accossì avette ra rice ca lo sole era lo cchiù fforte.<br><br>T’è ppiaciuto lo cundo? Vuò ca te lo fazzo n’ata vota?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_sa_m_salento.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>’No jùorno lo viendo re terra e llo sole se sciarraro, pecché ognuno re loro vulìa esse lo cchiù fforte quanno verero ’no cristiano ch’arrivava co’ ’no mantieddo re pedda ’nguoddo. Allora tutti e ddui recero ca lo cchiù fforte fosse stato chiro ca fosse riuscito re re fa levà lo mantieddo ra cuoddo. Lo viendo re terra accommenzao a scioscià forte, ma cchiù sciosciava e cchiù lo cristiano se stringìa inda lo mantieddo, e roppo ’no poco re tiembo lo povero viendo non ce la facette cchiù. Allora lo sole combarette inda lo cielo, e roppo ’no poco re tiembo lo cristiano, ca se sendìa ’mbocato re càoro, se levao lo mantieddo. Lo viendo re terra accossì avette ra rice ca lo sole era lo cchiù fforte.<br><br>T’è ppiaciuto lo cundo? Vuò ca te lo fazzo n’ata vota?"
 },
 "geometry": {
 "type": "Point",
@@ -2020,7 +2080,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Meridionale estremo Calabrese Italia Catanzaro",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_cz_f.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Nu ‘jornu u ventu e tramuntana e u sula dišcutianu subba quala dei dui husta u cchju fforta, quando vìttaru arrivara nu passante cu ncoddhu nu manteddhu. Accussì decidiru ca u cchju fforta avìa èssere chiru dei dui ca riuscia ma si ha cacciara u manteddhu. U ventu ppe pprimu cominciau ma mina cu ttutta a horza sua, ma cchju minava e cchju u passante si stringìa nto manteddhu, hinu a cquandu u ventu non si dezza ppe vvintu. U sula ppe mma ricambia cominciau a šplèndira e ssubbitu u calura obbligau l’òminu ma si caccia u manteddhu. Accussì a tramuntana fu ccuštretta ma ricanuscia ca u sula era cchju fforta e iddha.<br><br>Ti piazza u fattu? Voi ma tu cuntu n'atra vota?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_cz_f1.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Nu ‘jornu u ventu e tramuntana e u sula dišcutianu subba quala dei dui husta u cchju fforta, quando vìttaru arrivara nu passante cu ncoddhu nu manteddhu. Accussì decidiru ca u cchju fforta avìa èssere chiru dei dui ca riuscia ma si ha cacciara u manteddhu. U ventu ppe pprimu cominciau ma mina cu ttutta a horza sua, ma cchju minava e cchju u passante si stringìa nto manteddhu, hinu a cquandu u ventu non si dezza ppe vvintu. U sula ppe mma ricambia cominciau a šplèndira e ssubbitu u calura obbligau l’òminu ma si caccia u manteddhu. Accussì a tramuntana fu ccuštretta ma ricanuscia ca u sula era cchju fforta e iddha.<br><br>Ti piazza u fattu? Voi ma tu cuntu n'atra vota?"
 },
 "geometry": {
 "type": "Point",
@@ -2032,7 +2092,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Meridionale estremo Calabrese Italia Catanzaro",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/' controls='controls'><br>Your browser does not support the audio element.<br></audio>U ventu e tramuntana e u sula<br><br>Nu jornu u ventu e tramuntana e u sula di∫cutìanu subba quala dei dui husta u cchju fforta, quandu vìttaru arrivara nu passante ccu ’ncoddhu nu manteddhu. Accussì decidiru ca u cchju fforta avìa a èssere chiru dei dui ca riuscìa ma si ha cacciara u manteddhu. U ventu ppe pprimu cominciau ma mina ccu ttutta a horza sua, ma cchju mminava e cchju u passante si stringìa ’nto manteddhu, hinu a cquandu u ventu on si deza ppe vvintu. U sula, ppe mma ricambia, cominciau a ∫plendira e ssubbitu u calura obbligau l’òminu ma si caccia u manteddhu. Accussì a tramuntana fu ccu∫tritta ma ricanuscia ca u sula era cchju fforta e iddha.<br><br>Ti piazza u fattu? Voi ma t’u cuntu nat∫ra vota?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_cz_f2.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>U ventu e tramuntana e u sula<br><br>Nu jornu u ventu e tramuntana e u sula di∫cutìanu subba quala dei dui husta u cchju fforta, quandu vìttaru arrivara nu passante ccu ’ncoddhu nu manteddhu. Accussì decidiru ca u cchju fforta avìa a èssere chiru dei dui ca riuscìa ma si ha cacciara u manteddhu. U ventu ppe pprimu cominciau ma mina ccu ttutta a horza sua, ma cchju mminava e cchju u passante si stringìa ’nto manteddhu, hinu a cquandu u ventu on si deza ppe vvintu. U sula, ppe mma ricambia, cominciau a ∫plendira e ssubbitu u calura obbligau l’òminu ma si caccia u manteddhu. Accussì a tramuntana fu ccu∫tritta ma ricanuscia ca u sula era cchju fforta e iddha.<br><br>Ti piazza u fattu? Voi ma t’u cuntu nat∫ra vota?"
 },
 "geometry": {
 "type": "Point",
@@ -2404,7 +2464,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Meridionale estremo Salentino Italia Poggiardo (LE)",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_le_f_poggiardo.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>La t.r.amuntana e llu sule<br><br>Nu ggiurnu la t.r.amuntana e llu sule sta' se lliticàvine pe ccì te tutti e ddoi era u cchiù fforte. Quannu videra nu cristianu ca sta' rrivava tuttu ccucciatu ’nt.r.a nnu cappottu, se ncurdara ca lu cchiù fforte te tutti e ddoi era ddèssere quid.d..u ca riuscìa cu lli llea u cappottu a 'ddu cristianu. La t.r.amuntana ncignau pe pprima cu ttira cu ttutta la forza ca tinìa ma cchiui tirava e cchiui 'd.d.u cristianu se ccucciava ’nt.r.a llu cappottu finu a cquannu la t.r.amuntana nu llu lassau s.cire. Lu sule allora ssìu picca picca e ttantu bbastau cu ffazza schiattare te cautu 'd.d.u cristianu ca se lliau fus.cennu lu cappottu. Cussì fose ca la t.r.amuntana perze la scommessa.<br><br>T'è ppiaciutu stu cuntu? Hoi cu tte lu cuntu ntorna?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_le_f_poggiardo.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>La t.r.amuntana e llu sule<br><br>Nu ggiurnu la t.r.amuntana e llu sule sta' se lliticàvine pe ccì te tutti e ddoi era u cchiù fforte. Quannu videra nu cristianu ca sta' rrivava tuttu ccucciatu ’nt.r.a nnu cappottu, se ncurdara ca lu cchiù fforte te tutti e ddoi era ddèssere quid.d..u ca riuscìa cu lli llea u cappottu a 'ddu cristianu. La t.r.amuntana ncignau pe pprima cu ttira cu ttutta la forza ca tinìa ma cchiui tirava e cchiui 'd.d.u cristianu se ccucciava ’nt.r.a llu cappottu finu a cquannu la t.r.amuntana nu llu lassau s.cire. Lu sule allora ssìu picca picca e ttantu bbastau cu ffazza schiattare te cautu 'd.d.u cristianu ca se lliau fus.cennu lu cappottu. Cussì fose ca la t.r.amuntana perze la scommessa.<br><br>T'è ppiaciutu stu cuntu? Oi cu tte lu cuntu ntorna?"
 },
 "geometry": {
 "type": "Point",
@@ -2476,7 +2536,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Meridionale estremo Salentino Italia Surano (LE)",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_le_f_surano.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>La t.r.amuntana e llu sule<br><br>Nu ggiurnu la t.r.amuntana e llu sule sta' se lliticàvine pe ccì te tutti e ddoi era u cchiù fforte. Quannu videra nu cristianu ca sta' rrivava tuttu ccucciatu ’nt.r.a nnu cappottu, se ncurdara ca lu cchiù fforte te tutti e ddoi era ddèssere quid.d.u ca riuscìa cu lli llea u cappottu a 'ddu cristianu. La t.r.amuntana ncignau pe pprima cu ttira cu ttutta la forza ca tinìa ma cchiui tirava e cchiui 'd.d.u cristianu se ccucciava ’nt.r.a llu cappottu finu a cquannu la t.r.amuntana nu llu lassau s.cire. Lu sule allora ssìu picca picca e ttantu bbastau cu ffazza schiattare te cautu 'd.d.u cristianu ca se lliau fus.cennu lu cappottu. Cussì fose ca la t.r.amuntana perze la scommessa.<br><br>T'è ppiaciutu stu cuntu? Hoi cu tte lu cuntu ntorna?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_le_f_surano.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>La t.r.amuntana e llu sule<br><br>Nu ggiurnu la t.r.amuntana e llu sule sta' se lliticàvine pe ccì te tutti e ddoi era u cchiù fforte. Quannu videra nu cristianu ca sta' rrivava tuttu ccucciatu ’nt.r.a nnu cappottu, se ncurdara ca lu cchiù fforte te tutti e ddoi era ddèssere quid.d.u ca riuscìa cu lli llea u cappottu a 'ddu cristianu. La t.r.amuntana ncignau pe pprima cu ttira cu ttutta la forza ca tinìa ma cchiui tirava e cchiui 'd.d.u cristianu se ccucciava ’nt.r.a llu cappottu finu a cquannu la t.r.amuntana nu llu lassau s.cire. Lu sule allora ssìu picca picca e ttantu bbastau cu ffazza schiattare te cautu 'd.d.u cristianu ca se lliau fus.cennu lu cappottu. Cussì fose ca la t.r.amuntana perze la scommessa.<br><br>T'è ppiaciutu stu cuntu? Oi cu tte lu cuntu ntorna?"
 },
 "geometry": {
 "type": "Point",
@@ -2704,7 +2764,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Meridionale estremo Siciliano Italia Modica (RG)",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_rg_f_modica.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>N’ ionnu, u suli ca tramuntana riscurrièunu pi bbirri, cu re rui, era u cciù ffotti, quannu vìttiru n’forestieri ca passava antrusciatu nta na mantella pisanti. Si mìsiru r’accuoddu ca u primu ri iddi ca avissi fattu luari o forestieri a mantella r’in cuoddu avissi statu u cciù ffotti. A tramuntata si misi a sciusciari cu ttutta a fozza c’avia, ma cciu ’ssai ciusciava cciu assai u forestieri s’antrusciava na sa mantella. Tantu ca, arruatu an ciettu puntu, u pòviru vientu lassau pèddiri. Allura u suli ancuminciau a llùciri cu ttutt’a sa calura, e ssùbbitu, u forestieri si luvau a mantella r’ancuoddu. Accussì a tramuntana app’ a rricanùsciri ca u suli era cciù ffotti i ridda.<br><br>Ti piacìu a cuntata? Am’a rripetiri attonna?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_rg_m1_modica.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>N’ ionnu, u suli ca tramuntana riscurrièunu pi bbirri, cu re rui, era u cciù ffotti, quannu vìttiru n’forestieri ca passava antrusciatu nta na mantella pisanti. Si mìsiru r’accuoddu ca u primu ri iddi ca avissi fattu luari o forestieri a mantella r’in cuoddu avissi statu u cciù ffotti. A tramuntata si misi a sciusciari cu ttutta a fozza c’avia, ma cciu ’ssai ciusciava cciu assai u forestieri s’antrusciava na sa mantella. Tantu ca, arruatu an ciettu puntu, u pòviru vientu lassau pèddiri. Allura u suli ancuminciau a llùciri cu ttutt’a sa calura, e ssùbbitu, u forestieri si luvau a mantella r’ancuoddu. Accussì a tramuntana app’ a rricanùsciri ca u suli era cciù ffotti i ridda.<br><br>Ti piacìu a cuntata? Am’a rripetiri attonna?"
 },
 "geometry": {
 "type": "Point",
@@ -2716,7 +2776,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Meridionale estremo Siciliano Italia Modica (RG)",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_rg_m_modica_buscema.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>N’ ionnu, u suli ca tramuntana riscurrièunu pi bbirri, cu re rui, era u cciù ffotti, quannu vìttiru n’forestieri ca passava antrusciatu nta na mantella pisanti. Si mìsiru r’accuoddu ca u primu ri iddi ca avissi fattu luari o forestieri a mantella r’in cuoddu avissi statu u cciù ffotti. A tramuntata si misi a sciusciari cu ttutta a fozza c’avia, ma cciu ’ssai ciusciava cciu assai u forestieri s’antrusciava na sa mantella. Tantu ca, arruatu an ciettu puntu, u pòviru vientu lassau pèddiri. Allura u suli ancuminciau a llùciri cu ttutt’a sa calura, e ssùbbitu, u forestieri si luvau a mantella r’ancuoddu. Accussì a tramuntana app’ a rricanùsciri ca u suli era cciù ffotti i ridda.<br><br>Ti piacìu a cuntata? Am’a rripetiri attonna?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_rg_m2_modica.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>N’ ionnu, u suli ca tramuntana riscurrièunu pi bbirri, cu re rui, era u cciù ffotti, quannu vìttiru n’forestieri ca passava antrusciatu nta na mantella pisanti. Si mìsiru r’accuoddu ca u primu ri iddi ca avissi fattu luari o forestieri a mantella r’in cuoddu avissi statu u cciù ffotti. A tramuntata si misi a sciusciari cu ttutta a fozza c’avia, ma cciu ’ssai ciusciava cciu assai u forestieri s’antrusciava na sa mantella. Tantu ca, arruatu an ciettu puntu, u pòviru vientu lassau pèddiri. Allura u suli ancuminciau a llùciri cu ttutt’a sa calura, e ssùbbitu, u forestieri si luvau a mantella r’ancuoddu. Accussì a tramuntana app’ a rricanùsciri ca u suli era cciù ffotti i ridda.<br><br>Ti piacìu a cuntata? Am’a rripetiri attonna?"
 },
 "geometry": {
 "type": "Point",
@@ -3268,7 +3328,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Portoghese  Angola Luanda",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_angola_m_luanda.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>O vento norte e o sol discutiam qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se aconchegava à sua capa, até que o vento norte desistiu. O sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. O vento norte teve assim de reconhecer a superioridade do sol.<br><br><br>Você gostou da historinha? Queremos repetí-la?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_angola_m_luanda.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>O vento norte e o sol porfiabam sobre qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se embrulhava na sua capa, até que o vento norte desistiu. O sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. E, assim, o vento norte teve de reconhecer a superioridade do sol.<br><br>Você gostou da historinha? Quere repetí-la?"
 },
 "geometry": {
 "type": "Point",
@@ -3280,7 +3340,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Portoghese  Spagna Vigo",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_spain_m_vigo.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>O vento norte e o sol<br><br>O vento norte e o sol discutiam qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se aconchegava à sua capa, até que o vento norte desistiu. O sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. O vento norte teve assim de reconhecer a superioridade do sol.<br><br><br>Você gostou da historinha? Queremos repetí-la?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_spain_m_vigo.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>O vento do norte e o sol<br><br>O vento do norte e o sol discutiam qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que o primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento do norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se aconchegava à sua capa, até que o vento norte desistiu. O vento brilhou então com todo sou esplendor, e imediatamente o viajante tirou a capa. O vento norte teve assim de reconhecer a superioridade do sol.<br><br>Você gostaste da historia? Queremos repetí-la?"
 },
 "geometry": {
 "type": "Point",
@@ -3292,7 +3352,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Portoghese  Timor Est Dili",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_timor_est_f_dili.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>O vento norte e o sol discutiam qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se aconchegava à sua capa, até que o vento norte desistiu. O sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. O vento norte teve assim de reconhecer a superioridade do sol.<br><br><br>Você gostou da historinha? Queremos repetí-la?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_timor_est_f_dili.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>O vento norte e o sol porfiabam sobre qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se embrulhava na sua capa, até que o vento norte desistiu. O sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. E assim o vento norte teve de reconhecer a superioridade do sol.<br><br>Você gostou da historinha? Queremos repetí-la?"
 },
 "geometry": {
 "type": "Point",
@@ -3304,7 +3364,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Portoghese Brasiliano Amazonas Manaus",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_amazonas_f_manaus.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>O vento norte e o sol discutiam qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se aconchegava à sua capa, até que o vento norte desistiu. O sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. O vento norte teve assim de reconhecer a superioridade do sol.<br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_amazonas_f_manaus.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>O vento norte e o sol discutiam qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se aconchegava à sua capa, até que o vento norte desistiu. O sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. O vento norte teve assim de reconhecer a superioridade do sol.<br><br>"
 },
 "geometry": {
 "type": "Point",
@@ -3316,7 +3376,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Portoghese Brasiliano Minas Gerais Coronel Fabriciano",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_minas_gerais_f_coronel_fabriciano.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>O vento norte e o sol discutiam qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se aconchegava à sua capa, até que o vento norte desistiu. O sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. O vento norte teve assim de reconhecer a superioridade do sol.<br><br><br>Você gostou da historinha? Queremos repetí-la?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_minas_gerais_f_coronel_fabriciano.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>O vento norte e o sol porfiabam sobre qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se embrulhava na capa, até que o vento norte desistiu. E o sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. E assim o vento norte teve de reconhecer a superioridade do sol.<br><br>Você gostou da historinha? Queremos repetí-la?"
 },
 "geometry": {
 "type": "Point",
@@ -3328,7 +3388,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Portoghese Brasiliano San Paolo San Paolo",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_brazil_f1_sao_paolo.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>O vento norte e o sol discutiam qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se aconchegava à sua capa, até que o vento norte desistiu. O sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. O vento norte teve assim de reconhecer a superioridade do sol.<br><br><br>Você gostou da historinha? Queremos repetí-la?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_brazil_f1_sao_paolo.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>O vento norte e o sol porfiabam sobre qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se embrulhava na sua capa, até que o vento norte desistiu. O sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. E assim o vento norte teve de reconhecer a superioridade do sol.<br><br>Você gostou da historinha? Queremos repetí-la?"
 },
 "geometry": {
 "type": "Point",
@@ -3340,7 +3400,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Portoghese Brasiliano San Paolo San Paolo",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_brazil_f2_sao_paolo.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portuguese_brazil_f2_sao_paolo.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>O vento norte e o sol<br><br>O vento norte e o sol discutiam sobre qual dos dois era mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, quanto mais soprava, mais o viajante se embrulhava na sua capa, até que o vento norte desistiu. O sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. E assim o vento norte teve de reconhecer a superioridade do sol.<br><br>Você gostou da historinha? Queremos repetí-la? Gostaria que  nos..?"
 },
 "geometry": {
 "type": "Point",
@@ -3352,7 +3412,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Portoghese Europeo Portogallo Lisbona",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portugueseBL_portugal_f_lisboa.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>O vento norte e o sol<br><br>O vento norte e o sol discutiam qual dos dois era o mais forte, quando sucedeu passar um viajante envolto numa capa. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se aconchegava à sua capa, até que o vento norte desistiu. O sol brilhou então com todo o esplendor, e imediatamente o viajante tirou a capa. O vento norte teve assim de reconhecer a superioridade do sol.<br><br><br>Você gostou da historinha? Queremos repetí-la?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_portugueseBL_portugal_f_lisboa.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>O vento norte e o sol<br><br>O vento norte e o sol discutiam sobre qual das duas era o mais forte, maas quando sucedeu passar um viajante envolto num manto. Ao vê-lo, põem-se de acordo em como aquele que primeiro conseguisse obrigar o viajante a tirar a capa seria considerado o mais forte. O vento norte começou a soprar com muita fúria, mas quanto mais soprava, mais o viajante se embrulhava no seu manto, até que o vento norte desistiu. O sol brilhou então com todo o seu esplendor, e imediatamente o viajou tirou o seu manto. E assim o vento norte teve de reconhecer a superioridade do sol.<br><br>Você gostou da historinha? Queremos repetí-la?"
 },
 "geometry": {
 "type": "Point",
@@ -3400,7 +3460,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Rumeno  Iași Iași",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_moldavia_f2_iași.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_moldavia_f2_iași.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>Crivăţul şi Soarele<br><br>Crivăţul şi Soarele se certau şi fiecare se lăuda că el e mai puternic. Văzînd că se apropia un călător îmbrăcat cu o haină groasă, hotărâră că cel care va reuşi primul să îl facă să îşi scoată haina, acela o sa fie cel mai puternic dintre ei. <br>Atunci crivăţul începu să sufle cât putea el de tare, dar cu cât sufla mai mult, cu atât călătorul strângea mai tare haina pe el. Până la urmă crivăţul renunţă să mai încerce să îi scoată haina. Apoi, începu Soarele să strălucească şi, într-o clipă, călătorul, încălzindu-se, îşi scoase haina. Crivăţul trebui să recunoască asftel că Soarele este mai puternic decât el.<br><br>Ţi-a plăcut povestea? Vrei să o mai auzi o dată?"
 },
 "geometry": {
 "type": "Point",
@@ -3412,7 +3472,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Rumeno  Iași Iași",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_romania_m_iasi.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_romania_m_iasi.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>Crivăţul şi Soarele<br><br>Crivăţul şi Soarele se certau şi fiecare se lăuda că el e mai puternic. Văzînd că se apropia un călător îmbrăcat cu o haină groasă, hotărâră că cel care va reuşi primul să îl facă să îşi scoată haina, acela o sa fie cel mai puternic dintre ei. <br>Atunci crivăţul începu să sufle cât putea el de tare, dar cu cât sufla mai mult, cu atât călătorul strângea mai tare haina pe el. Până la urmă crivăţul renunţă să mai încerce să îi scoată haina. Apoi, începu Soarele să strălucească şi, într-o clipă, călătorul, încălzindu-se, îşi scoase haina. Crivăţul trebui să recunoască asftel că Soarele este mai puternic decât el.<br><br>Ţi-a plăcut povestea? Vrei să o mai auzi o dată?"
 },
 "geometry": {
 "type": "Point",
@@ -3424,7 +3484,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Rumeno  Suceava Suceava",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_romania_f_suceava.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_romania_f_suceava.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>Crivăţul şi Soarele<br><br>Crivăţul şi Soarele se certau şi fiecare se lăuda că el e mai puternic. Văzînd că se apropia un călător îmbrăcat cu o haină groasă, hotărâră că cel care va reuşi primul să îl facă să îşi scoată haina, acela o sa fie cel mai puternic dintre ei. <br>Atunci crivăţul începu să sufle cât putea el de tare, dar cu cât sufla mai mult, cu atât călătorul strângea mai tare haina pe el. Până la urmă crivăţul renunţă să mai încerce să îi scoată haina. Apoi, începu Soarele să strălucească şi, într-o clipă, călătorul, încălzindu-se, îşi scoase haina. Crivăţul trebui să recunoască asftel că Soarele este mai puternic decât el.<br><br>Ţi-a plăcut povestea? Vrei să o mai auzi o dată?"
 },
 "geometry": {
 "type": "Point",
@@ -3436,7 +3496,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Rumeno  Transilvania Brasov",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_transilvania_f_brasov.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_transilvania_f_brasov.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Crivăţul şi Soarele se certau şi fiecare se lăuda că el e mai puternic. Văzînd că se apropia un călător îmbrăcat cu o haină groasă, hotărâră că cel care va reuşi primul să îl facă să îşi scoată haina, acela o sa fie cel mai puternic dintre ei. <br>Atunci crivăţul începu să sufle cât putea el de tare, dar cu cât sufla mai mult, cu atât călătorul strângea mai tare haina pe el. Până la urmă crivăţul renunţă să mai încerce să îi scoată haina. Apoi, începu Soarele să strălucească şi, într-o clipă, călătorul, încălzindu-se, îşi scoase haina. Crivăţul trebui să recunoască asftel că Soarele este mai puternic decât el.<br><br>Ţi-a plăcut povestea? Vrei să o mai auzi o dată?"
 },
 "geometry": {
 "type": "Point",
@@ -3448,7 +3508,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Rumeno  Moldavia Bacău",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_romania_f1_bacau.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_romania_f1_bacau.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>Crivăţul şi Soarele<br><br>Crivăţul şi Soarele se certau şi fiecare se lăuda că el e mai puternic. Văzînd că se apropia un călător îmbrăcat cu o haină groasă, hotărâră că cel care va reuşi primul să îl facă să îşi scoată haina, acela o sa fie cel mai puternic dintre ei. <br>Atunci crivăţul începu să sufle cât putea el de tare, dar cu cât sufla mai mult, cu atât călătorul strângea mai tare haina pe el. Până la urmă crivăţul renunţă să mai încerce să îi scoată haina. Apoi, începu Soarele să strălucească şi, într-o clipă, călătorul, încălzindu-se, îşi scoase haina. Crivăţul trebui să recunoască asftel că Soarele este mai puternic decât el.<br><br>Ţi-a plăcut povestea? Vrei să o mai auzi o dată?"
 },
 "geometry": {
 "type": "Point",
@@ -3460,7 +3520,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Rumeno  Moldavia Bacău",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_romania_f2_bacau.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_romania_f2_bacau.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>Crivăţul şi Soarele<br><br>Crivăţul şi Soarele se certau şi fiecare se lăuda că el e mai puternic. Văzînd că se apropia un călător îmbrăcat cu o haină groasă, hotărâră că cel care va reuşi primul să îl facă să îşi scoată haina, acela o sa fie cel mai puternic dintre ei. <br>Atunci crivăţul începu să sufle cât putea el de tare, dar cu cât sufla mai mult, cu atât călătorul strângea mai tare haina pe el. Până la urmă crivăţul renunţă să mai încerce să îi scoată haina. Apoi, începu Soarele să strălucească şi, într-o clipă, călătorul, încălzindu-se, îşi scoase haina. Crivăţul trebui să recunoască asftel că Soarele este mai puternic decât el.<br><br>Ţi-a plăcut povestea? Vrei să o mai auzi o dată?"
 },
 "geometry": {
 "type": "Point",
@@ -3472,7 +3532,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Rumeno  Moldavia Chisinau",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_moldavia_f_chisinau.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_moldavia_f_chisinau.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>Crivăţul şi Soarele<br><br>Crivăţul şi Soarele se certau şi fiecare se lăuda că el e mai puternic. Văzînd că se apropia un călător îmbrăcat cu o haină groasă, hotărâră că cel care va reuşi primul să îl facă să îşi scoată haina, acela o sa fie cel mai puternic dintre ei. <br>Atunci crivăţul începu să sufle cât putea el de tare, dar cu cât sufla mai mult, cu atât călătorul strângea mai tare haina pe el. Până la urmă crivăţul renunţă să mai încerce să îi scoată haina. Apoi, începu Soarele să strălucească şi, într-o clipă, călătorul, încălzindu-se, îşi scoase haina. Crivăţul trebui să recunoască asftel că Soarele este mai puternic decât el.<br><br>Ţi-a plăcut povestea? Vrei să o mai auzi o dată?"
 },
 "geometry": {
 "type": "Point",
@@ -3484,7 +3544,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Rumeno  Oltenia Craiova",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_dia_romania_f_oltenia_craiova.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_romanian_dia_romania_f_oltenia_craiova.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Crivăţul şi Soarele se certau şi fiecare se lăuda că el e mai puternic. Văzînd că se apropia un călător îmbrăcat cu o haină groasă, au hotărât că cel care va reuşi primul să îl facă să îşi scoată haina, acela este cel mai puternic dintre ei. Atunci crivăţul a început  să sufle cât putea el de tare, dar cu cât sufla mai mult, cu atât călătorul strângea mai tare haina pe el. Până la urmă crivăţul renunţă să mai încerce să îi scoată haina. Apoi, a început Soarele să strălucească şi, într-o clipă, călătorul, încălzindu-se, îşi scoase haina. <br>Crivăţul a trebuit să recunoască asftel că Soarele este mai puternic ca el.<br><br>Ţi-a plăcut povestea? Vrei să o mai auzi o dată?"
 },
 "geometry": {
 "type": "Point",
@@ -3544,7 +3604,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Russo  Russia San Pietroburgo",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_russian_russia_f1_san_peterbourg.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
 },
 "geometry": {
 "type": "Point",
@@ -3556,7 +3616,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Russo  Russia San Pietroburgo",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_russian_russia_f2_san_peterbourg.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
 },
 "geometry": {
 "type": "Point",
@@ -3568,7 +3628,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Russo  Russia San Pietroburgo",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_russian_russia_f3_san_peterbourg.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
 },
 "geometry": {
 "type": "Point",
@@ -4372,7 +4432,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Toscano Toscano centr. Italia Firenze",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>La tramontana e il sole discutevano un giorno su chi dei due fosse il più forte, quando videro un viandante che passava avvolto in un mantello. Si misero d'accordo allora che il primo di loro che fosse riuscito a far togliere il mantello di dosso al viandante sarebbe stato ritenuto il più forte. La tramontana si mise a soffiare con tutta la sua forza, ma più soffiava, più il viandante si avvolgeva nel suo mantello. Tanto che alla fine il povero vento lasciò perdere. Allora il sole cominciò a brillare con tutto il suo calore e, immediatamente, il viandante si tolse il mantello. Così la tramontana fu costretta a riconoscere che il sole era più forte di lei.<br><br>Ti è piaciuta la storiella? Vuoi che te la racconti di nuovo?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_fi_f_firenze.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>La tramontana e il sole discutevano un giorno su chi dei due fosse il più forte, quando videro un viandante che passava avvolto in un mantello. Si misero d'accordo allora che il primo di loro che fosse riuscito a far togliere il mantello di dosso al viandante sarebbe stato ritenuto il più forte. La tramontana si mise a soffiare con tutta la sua forza, ma più soffiava, più il viandante si avvolgeva nel suo mantello. Tanto che alla fine il povero vento lasciò perdere. Allora il sole cominciò a brillare con tutto il suo calore e, immediatamente, il viandante si tolse il mantello. Così la tramontana fu costretta a riconoscere che il sole era più forte di lei.<br><br>Ti è piaciuta la storiella? Vuoi che te la racconti di nuovo?"
 },
 "geometry": {
 "type": "Point",
@@ -4384,7 +4444,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Toscano Toscano centr. Italia Pescia (PT)",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>La tramontana e il sole discutevano un giorno su chi dei due fosse il più forte, quando videro un viandante che passava avvolto in un pesante mantello. Si misero d'accordo allora che il primo di loro che fosse riuscito a far togliere il mantello di dosso al viandante sarebbe stato ritenuto il più forte. La tramontana si mise a soffiare con tutta la sua forza, ma più soffiava, più il viandante si avvolgeva nel suo mantello. Tanto che alla fine il povero vento lasciò perdere. Allora il sole cominciò a brillare con tutto il suo calore e, immediatamente, il viandante si tolse il mantello. Così la tramontana fu costretta a riconoscere che il sole era più forte di lei.<br><br>Ti è piaciuta la storiella? Vuoi che te la racconti di nuovo?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_pt_f_pescia.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>La tramontana e il sole discutevano un giorno su chi dei due fosse il più forte, quando videro un viandante che passava avvolto in un pesante mantello. Si misero d'accordo allora che il primo di loro che fosse riuscito a far togliere il mantello di dosso al viandante sarebbe stato ritenuto il più forte. La tramontana si mise a soffiare con tutta la sua forza, ma più soffiava, più il viandante si avvolgeva nel suo mantello. Tanto che alla fine il povero vento lasciò perdere. Allora il sole cominciò a brillare con tutto il suo calore e, immediatamente, il viandante si tolse il mantello. Così la tramontana fu costretta a riconoscere che il sole era più forte di lei.<br><br>Ti è piaciuta la storiella? Vuoi che te la racconti di nuovo?"
 },
 "geometry": {
 "type": "Point",
@@ -4396,7 +4456,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Toscano Toscano centr. Italia Pisa",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>La tramontana e il sole discutevano un giorno su chi dei due fosse il più forte, quando videro un viandante che passava avvolto in un pesante mantello. Si misero d'accordo allora che il primo di loro che fosse riuscito a far togliere il mantello di dosso al viandante sarebbe stato ritenuto il più forte. La tramontana si mise a soffiare con tutta la sua forza, ma più soffiava, più il viandante si avvolgeva nel suo mantello. Tanto che alla fine il povero vento lasciò perdere. Allora il sole cominciò a brillare con tutto il suo calore e, immediatamente, il viandante si tolse il mantello. Così la tramontana fu costretta a riconoscere che il sole era più forte di lei.<br><br>Ti è piaciuta la storiella? Vuoi che te la racconti di nuovo?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_pisa_m.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>La tramontana e il sole discutevano un giorno su chi dei due fosse il più forte, quando videro un viandante che passava avvolto in un pesante mantello. Si misero d'accordo allora che il primo di loro che fosse riuscito a far togliere il mantello di dosso al viandante sarebbe stato ritenuto il più forte. La tramontana si mise a soffiare con tutta la sua forza, ma più soffiava, più il viandante si avvolgeva nel suo mantello. Tanto che alla fine il povero vento lasciò perdere. Allora il sole cominciò a brillare con tutto il suo calore e, immediatamente, il viandante si tolse il mantello. Così la tramontana fu costretta a riconoscere che il sole era più forte di lei.<br><br>Ti è piaciuta la storiella? Vuoi che te la racconti di nuovo?"
 },
 "geometry": {
 "type": "Point",
@@ -4408,7 +4468,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Toscano Toscano sett. Italia Arezzo",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/f2' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>La tramontana e il sole discutevano un giorno su chi dei due fosse il più forte, quando videro un viandante che passava avvolto in un pesante mantello. Si misero d'accordo allora che il primo di loro che fosse riuscito a far togliere il mantello di dosso al viandante sarebbe stato ritenuto il più forte. La tramontana si mise a soffiare con tutta la sua forza, ma più soffiava, più il viandante si avvolgeva nel suo mantello. Tanto che alla fine il povero vento lasciò perdere. Allora il sole cominciò a brillare con tutto il suo calore e, immediatamente, il viandante si tolse il mantello. Così la tramontana fu costretta a riconoscere che il sole era più forte di lei.<br><br>Ti è piaciuta la storiella? Vuoi che te la racconti di nuovo?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_ar_f1_arezzo.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>La tramontana e il sole discutevano un giorno su chi dei due fosse il più forte, quando videro un viandante che passava avvolto in un pesante mantello. Si misero d'accordo allora che il primo di loro che fosse riuscito a far togliere il mantello di dosso al viandante sarebbe stato ritenuto il più forte. La tramontana si mise a soffiare con tutta la sua forza, ma più soffiava, più il viandante si avvolgeva nel suo mantello. Tanto che alla fine il povero vento lasciò perdere. Allora il sole cominciò a brillare con tutto il suo calore e, immediatamente, il viandante si tolse il mantello. Così la tramontana fu costretta a riconoscere che il sole era più forte di lei.<br><br>Ti è piaciuta la storiella? Vuoi che te la racconti di nuovo?"
 },
 "geometry": {
 "type": "Point",
@@ -4420,7 +4480,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Toscano Toscano sett. Italia Arezzo",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_ar_f.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Un giorno il vento di tramontana e il sole discutevano su chi dei due era il più forte, quando videro arrivare un passante con addosso un mantello. Allora decisero che il più forte sarebbe stato quello che fosse riuscito a fargli togliere il mantello. Il vento avia a soffià con tutta la su forza, ma più soffiava e più il passante si stringeva nel mantello, finché alla fine il vento non si dette per vinto. Il sole a sua volta incominciò a splende e subito il caldo obbligò l'omo a togliersi il mantello. Così la tramontana fu costretta a riconosce che il sole era più forte di lei.<br><br>T'è garbata la storiella? Vuoi che te la racconti 'n'artra volta?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_itdia_ar_f2_arezzo.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Un giorno il vento di tramontana e il sole discutevano su chi dei due era il più forte, quando videro arrivare un passante con addosso un mantello. Allora decisero che il più forte sarebbe stato quello che fosse riuscito a fargli togliere il mantello. Il vento avia a soffià con tutta la su forza, ma più soffiava e più il passante si stringeva nel mantello, finché alla fine il vento non si dette per vinto. Il sole a sua volta incominciò a splende e subito il caldo obbligò l'omo a togliersi il mantello. Così la tramontana fu costretta a riconosce che il sole era più forte di lei.<br><br>T'è garbata la storiella? Vuoi che te la racconti 'n'artra volta?"
 },
 "geometry": {
 "type": "Point",
@@ -4647,30 +4707,6 @@ var sounds = {"type": "FeatureCollection","features": [
 {
 "type": "Feature",
 "properties": {
-"name": "Walser  Italia Alagna",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_walser_vc_m_alagna_viotti.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
-},
-"geometry": {
-"type": "Point",
-"coordinates": [7.94762,45.86442]
-}
-},
-
-{
-"type": "Feature",
-"properties": {
-"name": "Walser  Italia Formazza",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_walser_vb_m_formazza.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
-},
-"geometry": {
-"type": "Point",
-"coordinates": [8.44458,46.43818]
-}
-},
-
-{
-"type": "Feature",
-"properties": {
 "name": "Walser  Italia Issime",
 "html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_walser_ao_m2_issime.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio>Dar choalt win un d sunnu<br><br>An tag dar choalt win un d sunnu sen gsing z wuerturu oufi wiar van di zweiseji z schtoarchschta wenn dŝch hen gsian arrivuru as ljöitji mi a as mantal.De hentsch dessidurut das z schtoarchschta wieri gsing das dar zwei das wieri gsing gutz z mu tun z kwenken z mantal. Dar win vür z iasta het gvoagen a an bloase mit alli dŝchein schterji, wa mia dar het bloase un miaz ljöitji hettschi kwungen im mantal untz das um ljeivru dar win hettschigrendrut. De d sunnu het gvoagen a an scheine, un im schtreich d wearmihet toan z kuenken dam ma z mantal. Swa dar win het mussun arpienne dasd sunnu ischt gsing schtoarhur den is.<br><br>Hetter gvallen z kuntji? Wéllischtdas ich tüjiedes widertzellje?"
 },
@@ -4684,7 +4720,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Walser  Italia Rimella (VC)",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_walser_vc_f_rimella_rinoldi.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_walser_vc_f_rimella.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br><br><br>"
 },
 "geometry": {
 "type": "Point",
@@ -4732,7 +4768,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Walser  Italia Formazza",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_walser_vb_m2_formazza_antonietti.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Äs tagsch der wén un t sunna hen kschtréttä, eine het wellä schtercher siide der andru, wensch a reiser ksee hen, cho for énä, méttum umfangtämantul. Di zwe schtritter hen techt das der schtercheru (der schterchschtu) wétti kse, der wa hätti dem reiser der mantul aptzéénta. Der wén hetanfangä blasä mét chraft, me blasä hedär, me der reiser hetschi umkfangäen dä mantul, bés wen der wén het méssä soolaa fa ŝchine wellä. Äso tsunna hetschi zeichutim hémmel, un ä wiil dernaa der reiser het waräkschpért un het méssä der mantul aptzéé. Un äso der wén het erchent dast sunna éscht schtercher de är. <br><br>Het dér fertzelluk kfallä? Sollt er mannerschtfertzellä?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_walser_vb_m2_formazza.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Äs tagsch der wén un t sunna hen kschtréttä, eine het wellä schtercher siide der andru, wensch a reiser ksee hen, cho for énä, méttum umfangtämantul. Di zwe schtritter hen techt das der schtercheru (der schterchschtu) wétti kse, der wa hätti dem reiser der mantul aptzéénta. Der wén hetanfangä blasä mét chraft, me blasä hedär, me der reiser hetschi umkfangäen dä mantul, bés wen der wén het méssä soolaa fa ŝchine wellä. Äso tsunna hetschi zeichutim hémmel, un ä wiil dernaa der reiser het waräkschpért un het méssä der mantul aptzéé. Un äso der wén het erchent dast sunna éscht schtercher de är. <br><br>Het dér fertzelluk kfallä? Sollt er mannerschtfertzellä?"
 },
 "geometry": {
 "type": "Point",
@@ -4744,7 +4780,7 @@ var sounds = {"type": "FeatureCollection","features": [
 "type": "Feature",
 "properties": {
 "name": "Walser  Italia Formazza",
-"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_walser_vb_m_1_formazza_dionisio.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Äs tagsch der wén un t sunna hen kschtréttä, eine het wellä schtercher siide der andru, wensch a reiser ksee hen, cho for énä, méttum umfangtämantul. Di zwe schtritter hen techt das der schtercheru (der schterchschtu) wétti kse, der wa hätti dem reiser der mantul aptzéénta. Der wén hetanfangä blasä mét chraft, me blasä hedär, me der reiser hetschi umkfangäen dä mantul, bés wen der wén het méssä soolaa fa ŝchine wellä. Äso tsunna hetschi zeichutim hémmel, un ä wiil dernaa der reiser het waräkschpért un het méssä der mantul aptzéé. Un äso der wén het erchent dast sunna éscht schtercher de är. <br>                <br><br>Het dér fertzelluk kfallä? Sollt er mannerschtfertzellä?"
+"html": "<audio width='300' height='32' src='http://www.lfsag.unito.it/ark/tramontane/trm_walser_vb_m1_formazza.mp3' controls='controls'><br>Your browser does not support the audio element.<br></audio><br><br>Äs tagsch der wén un t sunna hen kschtréttä, eine het wellä schtercher siide der andru, wensch a reiser ksee hen, cho for énä, méttum umfangtämantul. Di zwe schtritter hen techt das der schtercheru (der schterchschtu) wétti kse, der wa hätti dem reiser der mantul aptzéénta. Der wén hetanfangä blasä mét chraft, me blasä hedär, me der reiser hetschi umkfangäen dä mantul, bés wen der wén het méssä soolaa fa ŝchine wellä. Äso tsunna hetschi zeichutim hémmel, un ä wiil dernaa der reiser het waräkschpért un het méssä der mantul aptzéé. Un äso der wén het erchent dast sunna éscht schtercher de är. <br>                <br><br>Het dér fertzelluk kfallä? Sollt er mannerschtfertzellä?"
 },
 "geometry": {
 "type": "Point",
