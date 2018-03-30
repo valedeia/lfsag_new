@@ -1,0 +1,14 @@
+h4 {display:inline; min-width:110px; margin:0px; font-size:16px}
+h2 {display:inline}
+
+table {border-spacing:0px}
+td .fac {text-align:left; border:0px}
+
+table {border:1px solid gray; font-family: "DejaVu Sans", "Lucida Sans Unicode", "Charis SIL", "DoulosSIL", "Arial Unicode MS"; font-size:20px; text-align:center}
+table td {border:1px solid gray; text-align:center; vertical-align:middle; word-spacing:0.6em; min-width:70px}
+table .modi, table .luoghi {word-spacing:2px; font-size:12px}
+table a {text-decoration:none; color:red}
+table .extra {color:green}
+.tabella {text-align:center; margin-top:20px; margin-bottom:20px}
+
+.fac {border:0px; font-family: "DejaVu Sans", "Lucida Sans Unicode", "Charis SIL", "DoulosSIL", "Arial Unicode MS"; text-align:left}

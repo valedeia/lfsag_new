@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>LFSAG - Laboratorio di Fonetica Sperimentale 'Arturo Genre'</title>
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+
+<link href="/css/starter-template.css" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div w3-include-html="../menu_en.html"></div> 
+<script src="/js/w3.js"></script> 
+<script>w3.includeHTML();</script>
+
+
+<div class="card">
+    <div class="card-body">
+		<div class="card-block">
+        <h4 class="card-title">Phonverter - a converter between IPA and SAMPA transcriptions</h4>
+<p><b><i>Phonverter</i> is an online converter between IPA and SAMPA transcriptions. You simply have to insert either a SAMPA transcription in the textbox above or an IPA transcription (which you can make with the help of <a href="./editor_en.html">PhonPad</a>) in textbox below. The transcription will automatically be converted from IPA into SAMPA or from SAMPA into IPA. You will then be able to copy the text and paste it elsewhere (if you paste it in a Word document, you will probably have to select an adequate font, such as Doulos SIL, Charis SIL, DejaVu Sans, Lucida Sans Unicode or Gentium).</b></p>
+<p><b>Licence:</b> This script is developed by <a href="https://sites.google.com/site/paolomairano/">Paolo Mairano</a> and distributed as GPL software, so you are free to use and/or modify it; you can even insert it in your website, but if you do so, please quote your source and link to this page. The author cannot guarantee a flawless conversion.</p>
+<div style="text-align:center">
+<input type="button" value='Clear' onclick="t1.value = ''; t2.value = '';" />
+<br />
+<script type="text/javascript" src="../js/converter.js"></script>
+<script>t2.value = 'ˈɪnsɜːt ˈhɪə jɔː trɑːnsˈkrɪpʃn̩ tə kənˈvɜːt ɪt'; t1.value = ipatosampa(t2.value)</script>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+ </div>   
+
+
+    </div><!-- container-->
+	
+
+	
+<div class="container">
+<div w3-include-html="/footer_en.html"></div> 
+</div><!-- container-->
+
+
+
+    
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+</body>
+</html>
